@@ -1,0 +1,75 @@
+<?php
+$ImportSession = array (
+  'DeleteImages' => false,
+  'DeleteDownloads' => false,
+  'IsBulkEdit' => true,
+  'IgnoreBlankFields' => true,
+  'AutoCategory' => 1,
+  'Headers' => 1,
+  'OverrideDuplicates' => 1,
+  'FieldEnclosure' => '"',
+  'FieldSeparator' => ',',
+  'ImportFile' => '/home/sei22675/public_html/cache//import/products-import-0e7ee7e49f6ef43c52e87162a63e1c1e',
+  'TotalFileSize' => 58536,
+  'LastPosition' => 0,
+  'PageSize' => 3000,
+  'Header' => 
+  array (
+    0 => 'Product ID',
+    1 => 'Product Name',
+    2 => 'Product Description',
+    3 => 'Price',
+    4 => 'Retail Price',
+    5 => 'Sale Price',
+    6 => 'Allow Purchases?',
+    7 => 'Product Visible?',
+    8 => 'Category',
+    9 => 'Product Image ID - 1',
+    10 => 'Product Image File - 1',
+    11 => 'Search Keywords',
+    12 => 'Page Title',
+    13 => 'Meta Keywords',
+    14 => 'Meta Description',
+  ),
+  'MultiFieldCount' => 
+  array (
+    'images' => 1,
+    'files' => 0,
+  ),
+  'FieldList' => 
+  array (
+    'productid' => '0',
+    'prodname' => '1',
+    'category' => '8',
+    'proddesc' => '2',
+    'prodprice' => '3',
+    'prodsaleprice' => '5',
+    'prodretailprice' => '4',
+    'prodallowpurchases' => '6',
+    'prodvisible' => '7',
+    'prodpagetitle' => '12',
+    'prodsearchkeywords' => '11',
+    'prodmetakeywords' => '13',
+    'prodmetadesc' => '14',
+    'prodimageid1' => '9',
+    'prodimagefile1' => '10',
+  ),
+  'Results' => 
+  array (
+    'SuccessCount' => '0',
+    'Failures' => 
+    array (
+    ),
+    'Duplicates' => 
+    array (
+    ),
+    'Updates' => 
+    array (
+    ),
+    'Warnings' => 
+    array (
+    ),
+  ),
+);
+
+?>

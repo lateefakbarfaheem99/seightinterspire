@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="">
+	<title type="html"><![CDATA[Seight Custom Cycling Wear: New Products - Example MyTeamShop]]></title>
+	<subtitle type="html"><![CDATA[A list of the new products at Seight Custom Cycling Wear.]]></subtitle>
+	<link rel="self" href="http://www.seightcustom.com.au/rss.php?categoryid=32&amp;type=atom" />
+	<id>http://www.seightcustom.com.au</id>
+	<updated>2013-06-13T10:32:43Z</updated>
+			<isc:store_title><![CDATA[Seight Custom Cycling Wear]]></isc:store_title>
+</feed>

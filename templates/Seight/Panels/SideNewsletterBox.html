@@ -1,0 +1,51 @@
+                    %%GLOBAL_NewsletterBoxControlScript%%
+
+                <div class="Block NewsletterSubscription Moveable Panel" id="SideNewsletterBox">
+                    %%GLOBAL_NewsletterHeaderOptimizerScriptTag%%
+                    <h1>
+                        %%LNG_OurNewsletter%%
+                    </h1>
+                    %%GLOBAL_NewsletterBoxOptimizerNoScriptTag%%
+
+                    <div class="BlockContent">
+                        <form action="%%GLOBAL_ShopPath%%/subscribe.php" method="post" id="subscribe_form" name="subscribe_form">
+                            <input type="hidden" name="action" value="subscribe" />
+                            <label for="nl_first_name">%%LNG_YourFirstName%%:</label>
+                            <input type="text" class="Textbox" id="nl_first_name" name="nl_first_name" />
+                            <label for="nl_email">%%LNG_YourEmailAddress%%:</label>
+                            <input type="text" class="Textbox" id="nl_email" name="nl_email" /><br />
+                            %%GLOBAL_NewsletterButtonOptimizerScriptTag%%
+                                <input type="image" src="%%GLOBAL_IMG_PATH%%/%%GLOBAL_SiteColor%%/NewsletterSubscribe.gif" value="%%LNG_Subscribe%%" class="Button" />
+                            %%GLOBAL_NewsletterBoxOptimizerNoScriptTag%%
+                        </form>
+                    </div>
+                </div>
+<script type="text/javascript">
+// <!--
+    $('#subscribe_form').submit(function() {
+        if($('#nl_first_name').val() == '') {
+            alert('You forgot to type in your first name.');
+            $('#nl_first_name').focus();
+            return false;
+        }
+
+        if($('#nl_email').val() == '') {
+            alert('You forgot to type in your email address.');
+            $('#nl_email').focus();
+            return false;
+        }
+
+        if($('#nl_email').val().indexOf('@') == -1 || $('#nl_email').val().indexOf('.') == -1) {
+            alert('Please enter a valid email address, such as john@example.com.');
+            $('#nl_email').focus();
+            $('#nl_email').select();
+            return false;
+        }
+
+        // Set the action of the form to stop spammers
+        $('#subscribe_form').append("<input type=\"hidden\" name=\"check\" value=\"1\" \/>");
+        return true;
+
+    });
+// -->
+</script>

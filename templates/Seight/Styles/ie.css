@@ -1,0 +1,23 @@
+/** IE 67 Specific Fixes **/
+
+* html #Menu li a {
+	float: left;
+	padding-bottom: 15px;
+}
+* html .Content, * html .Left, * html .Right {
+	height: 500px;
+}
+* html .Content .ProductList li {
+	height: 12em;
+}
+* html .SelectGiftWrapMultiple {
+	height: 400px;
+}
+
+/** General IE Fixes **/
+#SearchForm .Button {
+	vertical-align: bottom;
+}
+select, input {
+	font-size: 0.95em;
+}

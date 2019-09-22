@@ -1,0 +1,36 @@
+<?php
+$ImportSession = array (
+  'DeleteImages' => false,
+  'DeleteDownloads' => false,
+  'IsBulkEdit' => true,
+  'IgnoreBlankFields' => true,
+  'AutoCategory' => 1,
+  'Headers' => 1,
+  'OverrideDuplicates' => 1,
+  'FieldEnclosure' => '"',
+  'FieldSeparator' => ',',
+  'ImportFile' => '/home/sei22675/public_html/cache//import/products-import-51f77d3c85cc12e5ad5f94fd4fde4ea5',
+  'TotalFileSize' => 432,
+  'LastPosition' => 0,
+  'PageSize' => 3000,
+  'Header' => 
+  array (
+    0 => 'Sale Price',
+    1 => 'Allow Purchases?',
+    2 => 'Product Visible?',
+    3 => 'Category',
+    4 => 'Product Image ID - 1',
+    5 => 'Product Image File - 1',
+    6 => 'Search Keywords',
+    7 => 'Page Title',
+    8 => 'Meta Keywords',
+    9 => 'Meta Description',
+  ),
+  'MultiFieldCount' => 
+  array (
+    'images' => 1,
+    'files' => 0,
+  ),
+);
+
+?>

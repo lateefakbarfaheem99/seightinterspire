@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="">
+	<title type="html"><![CDATA[Seight Custom Cycling Wear: New Products - Adelaide Cyclists]]></title>
+	<subtitle type="html"><![CDATA[A list of the new products at Seight Custom Cycling Wear.]]></subtitle>
+	<link rel="self" href="http://www.seightcustom.com.au/rss.php?categoryid=15&amp;type=atom" />
+	<id>http://www.seightcustom.com.au</id>
+	<updated>2013-05-23T03:06:51Z</updated>
+			<isc:store_title><![CDATA[Seight Custom Cycling Wear]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2012-04-25T13:29:55Z</published>
+		<updated>2012-04-25T13:29:55Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/adelaide-casual-winter-vest" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/adelaide-casual-winter-vest</id>
+		<title type="html" xml:space="preserve"><![CDATA[Adelaide Casual Winter Vest]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/adelaide-casual-winter-vest"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/adelaide-casual-winter-vest"  ><img src="http://www.seightcustom.com.au/product_images/u/314/Seight_Casual_Winter_Vest__50057_thumb.png" alt="Adelaide Casual Winter Vest" width="71" height="120" /></a></div><p><span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #808080;"><span lang="EN-US">This casual winter vest will provide a great fit, it&rsquo;s made of a multi layer wind repellent membrane with<span class="apple-converted-space"> </span><span class="apple-style-span">3..<p><strong>Price: $95.45</strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #808080;"><span lang="EN-US">This casual winter vest will provide a great fit, it&rsquo;s made of a multi layer wind repellent membrane with<span class="apple-converted-space"> </span><span class="apple-style-span">3..]]></isc:description>
+		<isc:productid><![CDATA[105]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/u/314/Seight_Casual_Winter_Vest__50057_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/u/989/Seight_Casual_Winter_Vest__00629_zoom.png]]></isc:image>
+		<isc:price><![CDATA[$95.45]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+</feed>

@@ -1,0 +1,32 @@
+<?php
+$ImportSession = array (
+  'UpdateExisting' => true,
+  'DefaultForEmpty' => false,
+  'CreateAllCombos' => false,
+  'Headers' => '1',
+  'FieldEnclosure' => '"',
+  'FieldSeparator' => ',',
+  'ImportFile' => '/home/sei22675/public_html/cache//import/productvariations-import-e915dfa7520a37d7179c78c6691b8c90',
+  'TotalFileSize' => 1493,
+  'LastPosition' => 0,
+  'PageSize' => 3000,
+  'Header' => 
+  array (
+    0 => 'Product Name',
+    1 => 'Product Description',
+    2 => 'Price',
+    3 => 'Retail Price',
+    4 => 'Sale Price',
+    5 => 'Allow Purchases?',
+    6 => 'Product Visible?',
+    7 => 'Category',
+    8 => 'Product Image ID - 1',
+    9 => 'Product Image File - 1',
+    10 => 'Search Keywords',
+    11 => 'Page Title',
+    12 => 'Meta Keywords',
+    13 => 'Meta Description',
+  ),
+);
+
+?>

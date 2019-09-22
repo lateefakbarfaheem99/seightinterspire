@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="">
+	<title type="html"><![CDATA[Seight Custom Cycling Wear: New Products - Skinsuits]]></title>
+	<subtitle type="html"><![CDATA[A list of the new products at Seight Custom Cycling Wear.]]></subtitle>
+	<link rel="self" href="http://www.seightcustom.com.au/rss.php?categoryid=18&amp;type=atom" />
+	<id>http://www.seightcustom.com.au</id>
+	<updated>2013-06-13T11:07:58Z</updated>
+			<isc:store_title><![CDATA[Seight Custom Cycling Wear]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2012-01-25T19:26:47Z</published>
+		<updated>2012-01-25T19:26:47Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-long-sleeve-speed-skin-suit" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/seight-custom-long-sleeve-speed-skin-suit</id>
+		<title type="html" xml:space="preserve"><![CDATA[Seight Custom Long Sleeve Speed Skin Suit]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-long-sleeve-speed-skin-suit"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-long-sleeve-speed-skin-suit"  ><img src="http://www.seightcustom.com.au/product_images/e/191/Seight_Long_Sleeve_Speed_Skin_Suit__49178_thumb.png" alt="Seight Custom Long Sleeve Speed Skin Suit" width="73" height="120" /></a></div><p><span style="font-size: small;">Made with aerodynamic lycra fabric, a high performing chamois, and power band grippers, the Seight Long Sleeve Speed Skin Suit conveys all your energy to the pedals for magnificent speed and efficiency. This design is a perfect blend of aerodynamics, ergonomic fi..<p><strong>Price: $204.55</strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;">Made with aerodynamic lycra fabric, a high performing chamois, and power band grippers, the Seight Long Sleeve Speed Skin Suit conveys all your energy to the pedals for magnificent speed and efficiency. This design is a perfect blend of aerodynamics, ergonomic fi..]]></isc:description>
+		<isc:productid><![CDATA[62]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/e/191/Seight_Long_Sleeve_Speed_Skin_Suit__49178_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/j/156/Seight_Long_Sleeve_Speed_Skin_Suit__08723_zoom.png]]></isc:image>
+		<isc:price><![CDATA[$204.55]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2012-01-25T19:26:47Z</published>
+		<updated>2012-01-25T19:26:47Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-long-sleeve-skin-suit" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/seight-custom-long-sleeve-skin-suit</id>
+		<title type="html" xml:space="preserve"><![CDATA[Seight Custom Long Sleeve Skin Suit]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-long-sleeve-skin-suit"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-long-sleeve-skin-suit"  ><img src="http://www.seightcustom.com.au/product_images/v/464/Seight_Long_Sleeve_Skin_Suit__62710_thumb.png" alt="Seight Custom Long Sleeve Skin Suit" width="73" height="120" /></a></div><p><span style="font-size: small;">Each detail of the Seight Long Sleeve Skin Suit has been meticulously observed to create a garment which delivers a superior cycling experience. It is constructed using top end Lycra fabrics which wick moisture efficiently, and fits perfectly on your body and won..<p><strong>Price: $136.36</strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;">Each detail of the Seight Long Sleeve Skin Suit has been meticulously observed to create a garment which delivers a superior cycling experience. It is constructed using top end Lycra fabrics which wick moisture efficiently, and fits perfectly on your body and won..]]></isc:description>
+		<isc:productid><![CDATA[61]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/v/464/Seight_Long_Sleeve_Skin_Suit__62710_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/w/328/Seight_Long_Sleeve_Skin_Suit__24436_zoom.png]]></isc:image>
+		<isc:price><![CDATA[$136.36]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2012-01-25T19:26:47Z</published>
+		<updated>2012-01-25T19:26:47Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-short-sleeve-speed-skin-suit" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/seight-custom-short-sleeve-speed-skin-suit</id>
+		<title type="html" xml:space="preserve"><![CDATA[Seight Custom Short Sleeve Speed Skin Suit]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-short-sleeve-speed-skin-suit"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-short-sleeve-speed-skin-suit"  ><img src="http://www.seightcustom.com.au/product_images/j/268/Seight_Short_Sleeve_Speed_Skin_Suit__02800_thumb.png" alt="Seight Custom Short Sleeve Speed Skin Suit" width="66" height="120" /></a></div><p><span style="font-size: small;">Look &amp; feel like a pro rider in the Seight Short Sleeve Speed Skin Suit. It&rsquo;s designed with aerodynamic lycras to ensure not a millisecond is lost. Both legs and arms are powered by proprietary power band sleeves. </span><span style="font-size: small;">..<p><strong>Price: $190.91</strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;">Look &amp; feel like a pro rider in the Seight Short Sleeve Speed Skin Suit. It&rsquo;s designed with aerodynamic lycras to ensure not a millisecond is lost. Both legs and arms are powered by proprietary power band sleeves. </span><span style="font-size: small;">..]]></isc:description>
+		<isc:productid><![CDATA[60]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/j/268/Seight_Short_Sleeve_Speed_Skin_Suit__02800_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/x/157/Seight_Short_Sleeve_Speed_Skin_Suit__54262_zoom.png]]></isc:image>
+		<isc:price><![CDATA[$190.91]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2012-01-25T19:26:47Z</published>
+		<updated>2012-01-25T19:26:47Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-short-sleeve-skin-suit" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/seight-custom-short-sleeve-skin-suit</id>
+		<title type="html" xml:space="preserve"><![CDATA[Seight Custom Short Sleeve Skin Suit]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-short-sleeve-skin-suit"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-short-sleeve-skin-suit"  ><img src="http://www.seightcustom.com.au/product_images/c/873/Seight_Short_Sleeve_Skin_Suit__74307_thumb.png" alt="Seight Custom Short Sleeve Skin Suit" width="66" height="120" /></a></div><p><span style="font-size: small;">Each detail of the Seight Short Sleeve  Skin Suit has been meticulously observed to create a garment which  delivers a superior cycling experience. It is constructed using top end  Lycra fabrics which wick moisture efficiently, and fits perfectly on  your body an..<p><strong>Price: $127.27</strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;">Each detail of the Seight Short Sleeve  Skin Suit has been meticulously observed to create a garment which  delivers a superior cycling experience. It is constructed using top end  Lycra fabrics which wick moisture efficiently, and fits perfectly on  your body an..]]></isc:description>
+		<isc:productid><![CDATA[59]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/c/873/Seight_Short_Sleeve_Skin_Suit__74307_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/u/448/Seight_Short_Sleeve_Skin_Suit__30920_zoom.png]]></isc:image>
+		<isc:price><![CDATA[$127.27]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+</feed>

@@ -1,0 +1,16 @@
+<?php
+$ImportSession = array (
+  'DeleteImages' => false,
+  'DeleteDownloads' => false,
+  'IsBulkEdit' => false,
+  'IgnoreBlankFields' => true,
+  'AutoCategory' => 1,
+  'FieldEnclosure' => '"',
+  'FieldSeparator' => ',',
+  'ImportFile' => '/home/sei22675/public_html/cache//import/products-import-c47412de6ef4d7ca542282de27fa74ef',
+  'TotalFileSize' => 1469,
+  'LastPosition' => 0,
+  'PageSize' => 3000,
+);
+
+?>

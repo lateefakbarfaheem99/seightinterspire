@@ -1,0 +1,148 @@
+/********************************************************\
+* Interspire Shopping Cart Style sheet		          	*
+*                                                     	*
+* Name: Waseem 		                                	*
+* Author: Raheel						               	*
+* Company: Mindviewstudio                              	*
+* Address: www.Mindviewstudio.com						*
+\********************************************************/
+
+input[type="submit"]{
+	height: 30px;
+	width: 100%;
+	cursor: pointer;
+}
+
+input[type="radio"], input[type="checkbox"]{
+	cursor: pointer;
+
+}
+
+.records_list input[type="text"]{
+    margin: 0 0 0 0;
+    font:normal 12px tahoma, arial, helvetica, sans-serif;
+    padding:1px 3px;
+    background:#fff url(text-bg.gif) repeat-x 0 0;
+    border:1px solid #B5B8C8;
+    height: 18px;
+    line-height:18px;
+    vertical-align:middle; 
+    left: 0px;
+    top: 0px; 
+    width: 260px;  
+
+}
+
+textarea {
+	width: 247px;
+}
+
+select{
+    margin: 0 0 0 0;
+    font:normal 12px tahoma, arial, helvetica, sans-serif;
+    background:#fff url(text-bg.gif) repeat-x 0 0;
+    border:1px solid #B5B8C8;
+    height: 18px;
+    line-height:18px;
+    vertical-align:middle; 
+    left: 0px;
+    top: 0px; 
+    width: 204px;
+	height: 20px;  
+	cursor: pointer;
+}
+
+.list_item{
+    float: left;
+    padding: 9.5px;
+    width: 206px;
+	text-align: center;
+	height:240px;
+}
+.image_thumb{
+	height: 160px;
+}
+.image_thumb img{
+	max-width: 200px;
+}
+.image_display_name{
+}
+
+.image_display_name input[type="text"]{
+	width: 200px;
+}
+
+.image_file_name{
+}
+.image_size{
+}
+.image_update{
+}
+.image_update ul li{
+    margin-top: 10px;
+}
+.image_update_button{
+    float: left;
+    padding-left: 60px;
+}
+.gallery_thumbnail{
+    float: right;
+    padding-right: 70px;
+}
+
+.smalldropdown{
+	width: 50px;
+	cursor: pointer;
+}
+.middropdown{
+	width: 73px;
+	cursor: pointer;
+}
+.dates{
+	width: 70px;
+	text-align:center;
+}
+
+#block_name{
+	width:96%;
+}
+
+.HeadTable, .GridTable{
+	width: 100%;
+
+}
+
+.HeadTable td{
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #E4E4E4;
+    background-image: url("./images/table_head_bg.gif");
+    background-repeat: repeat-x;
+    border-bottom: 1px solid #DDDDDD;
+    color: #000000;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+    vertical-align: middle;
+
+}
+
+#contentLeft {
+	float: left;
+	width:100%;
+}
+
+#contentLeft ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+#contentLeft ul li {
+	list-style: none;
+	cursor: move;
+}
+
+.records_list{
+	margin-top: 10px;	
+	margin-bottom: 10px;	
+}

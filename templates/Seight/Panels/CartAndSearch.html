@@ -1,0 +1,41 @@
+<div class="box-login">%%GLOBAL_LoginOrLogoutText%%</div>
+
+<div id="nav-utility">
+            
+    <a href="" id="nav-button-cart">
+   <img class="disabled" src="%%GLOBAL_ShopPath%%/content/CartAndSearch/images/cart-icon.png" width="24" height="20" alt="cart" />
+   <img class="hoverState" id="cart-img" src="%%GLOBAL_ShopPath%%/content/CartAndSearch/images/icon-shopping-cart.jpg" alt="cart" width="39" height="39" style="opacity: 0; "/></a>
+    <a href="" id="nav-button-search">
+        <img class="disabled" src="%%GLOBAL_ShopPath%%/content/CartAndSearch/images/search-icon.png" width="24" height="20" alt="search"/>
+   <img class="hoverState" src="%%GLOBAL_ShopPath%%/content/CartAndSearch/images/icon-search.png" width="39" height="39" alt="search" style="opacity: 0; "/></a>
+       
+    
+    
+    <div id="cart-container" style="opacity: 100; display: none; z-index: 1000; ">
+                <div id="hotspot">
+                 %%GLOBAL_MenuCart%%
+                    <div class="cart-info">
+                     <span class="cart-items-count-text"> %%GLOBAL_CartItems%%<a
+                                           href="cart.php" id="view-cart-button">
+    <img src="%%GLOBAL_ShopPath%%/content/CartAndSearch/images/button-view-cart.jpg" width="76" height="23" alt="view cart"/></a></span>
+                    </div>
+                </div>
+            </div>
+    
+    
+    
+            <div id="search-container" style="opacity: 100; display: none; z-index: 10000; ">
+ <div id="SearchForm">
+                <form action="%%GLOBAL_ShopPath%%/search.php" method="get" onsubmit="return check_small_search_form()">
+                    <label for="search_query">%%LNG_Search%%</label>
+                    <input type="text" name="search_query" id="search_query" class="Textbox" value="%%GLOBAL_OriginalSearchQuery%%" />
+                    <input type="image" src="%%GLOBAL_IMG_PATH%%/%%GLOBAL_SiteColor%%/Search.gif" class="Button" />
+                </form>
+                <p>
+                    <a href="%%GLOBAL_ShopPathNormal%%/search.php?mode=advanced"><strong>%%LNG_AdvancedSearch%%</strong></a> |
+                    <a href="%%GLOBAL_ShopPathNormal%%/search.php?action=Tips">%%LNG_SearchTips%%</a>
+                </p>
+            </div>                
+            </div>
+</div>
+

@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+%%Panel.HTMLHead%%
+<body>
+<div id="Wrapper-2">
+<div id="Container">
+    %%Panel.Header%%
+    <div id="Wrapper">
+        %%Panel.WrapperBanner%%
+        <div class="Content Wide WideWithLeft" id="LayoutColumn2">
+                <div class="Block CategoryContent Moveable Panel" id="CategoryContent">
+                    <form name="frmSecureCheck" id="frmSecureCheck" action="%%GLOBAL_SecureCategoryLink%%" method="post">
+                        <div class="FormContainer HorizontalFormContainer">
+                            <img src="%%GLOBAL_ShopPath%%/%%GLOBAL_CategoryImageURL%%" style="display:block;margin: 0 auto 10px;">
+                            <p style="text-align: center;">Please enter the password provided to you by your team/group/club administrator to view products</p>
+                            <div style="%%GLOBAL_ShowCateogoryPasswordIsWrong%% overflow: hidden;width: 170px; margin: 0pt auto;">
+                                <img alt="Error: " src="%%GLOBAL_IMG_PATH%%/ErrorMessage.gif" style="float: left; margin-right:10px;"><p style="float:left;">%%GLOBAL_CateogoryPasswordIsWrong%%</p>
+                            </div>
+                            <dl style="float:left;margin-left: 210px;">
+                                <dt style="width: 100px">&nbsp;&nbsp; Password:</dt>
+                                <dd style="width: 200px; margin-left: 100px;"><input type="password" id="CategoryPassword" name="CategoryPassword" size="30" value="" /></dd>
+                            </dl>
+                            <p style="float:left;">
+                                <input type="submit" value="Go" />
+                            </p>
+                        </div>
+                    </form>
+                </div>
+            %%Banner.BottomBanner%%
+        </div>
+        <br class="Clear" />
+    </div>
+</div>
+    </div>
+    <div id="Footer-wrapper">%%Panel.Footer%%</div>
+</body>
+<script type="text/javascript">
+//<![CDATA[
+    $('#frmSecureCheck').submit(function() {
+        var email_address = $('#CategoryPassword').val();
+        if($('#CategoryPassword').val() == '') {
+            alert('Please input the password.');
+            $('#CategoryPassword').focus();
+            return false;
+        }
+        return true;
+    });
+//]]>
+</script>
+</html>

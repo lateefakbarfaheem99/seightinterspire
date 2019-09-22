@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="">
+	<title type="html"><![CDATA[Seight Custom Cycling Wear: Popular Products]]></title>
+	<subtitle type="html"><![CDATA[A list of the popular products at Seight Custom Cycling Wear.]]></subtitle>
+	<link rel="self" href="http://www.seightcustom.com.au/rss.php?action=popularproducts&amp;categoryid=21&amp;type=atom" />
+	<id>http://www.seightcustom.com.au</id>
+	<updated>2013-06-13T07:07:48Z</updated>
+			<isc:store_title><![CDATA[Seight Custom Cycling Wear]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2012-01-25T19:26:48Z</published>
+		<updated>2012-01-25T19:26:48Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-tri-suit" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/seight-custom-tri-suit</id>
+		<title type="html" xml:space="preserve"><![CDATA[Seight Custom Tri Suit]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-tri-suit"><![CDATA[<p><span style="font-size: small;" lang="EN-US">The Seight Tri Suit is hard to beat. Made with input from pro triathletes, it an indispensable part of the racers gear drawer. It is made of supremely lightweight lycra, with multi direction stretch for support and total compression. This tri suit ha..<p><strong>Price: $168.18</strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;" lang="EN-US">The Seight Tri Suit is hard to beat. Made with input from pro triathletes, it an indispensable part of the racers gear drawer. It is made of supremely lightweight lycra, with multi direction stretch for support and total compression. This tri suit ha..]]></isc:description>
+		<isc:productid><![CDATA[87]]></isc:productid>
+		<isc:price><![CDATA[$168.18]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2012-01-25T19:26:48Z</published>
+		<updated>2012-01-25T19:26:48Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-run-singlet" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/seight-custom-run-singlet</id>
+		<title type="html" xml:space="preserve"><![CDATA[Seight Custom Run Singlet]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-run-singlet"><![CDATA[<p><span style="font-size: small;" lang="EN-US">Our Seight Run Singlet is meticulously designed, inexpensive,UV protective, sweat-expelling, snug, soft and cosy. It is made of soft compressed moisture wicking polyester fabrics, which is anti-bacterial and odour-free. It&rsquo;s air wicking feature..<p><strong>Price: $59.09</strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;" lang="EN-US">Our Seight Run Singlet is meticulously designed, inexpensive,UV protective, sweat-expelling, snug, soft and cosy. It is made of soft compressed moisture wicking polyester fabrics, which is anti-bacterial and odour-free. It&rsquo;s air wicking feature..]]></isc:description>
+		<isc:productid><![CDATA[88]]></isc:productid>
+		<isc:price><![CDATA[$59.09]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2012-01-25T19:26:48Z</published>
+		<updated>2012-01-25T19:26:48Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-run-top" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/seight-custom-run-top</id>
+		<title type="html" xml:space="preserve"><![CDATA[Seight Custom Run Top]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/seight-custom-run-top"><![CDATA[<p><span style="font-size: small;" lang="EN-US">Soft, excellent performance, snug fit and comfy to wear are the features of our Seight Run Top. It is manufactured using superb quality fabrics, and specially engineered to yield optimal flexibility and movement. It is light in weight and possesses a..<p><strong>Price: $59.09</strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;" lang="EN-US">Soft, excellent performance, snug fit and comfy to wear are the features of our Seight Run Top. It is manufactured using superb quality fabrics, and specially engineered to yield optimal flexibility and movement. It is light in weight and possesses a..]]></isc:description>
+		<isc:productid><![CDATA[89]]></isc:productid>
+		<isc:price><![CDATA[$59.09]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+</feed>

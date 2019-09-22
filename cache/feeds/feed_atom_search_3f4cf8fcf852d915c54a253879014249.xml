@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="">
+	<title type="html"><![CDATA[Seight Custom Cycling Wear: Product Search]]></title>
+	<subtitle type="html"><![CDATA[A custom search for products at Seight Custom Cycling Wear.]]></subtitle>
+	<link rel="self" href="http://www.seightcustom.com.au/rss.php?action=searchproducts&amp;type=rss&amp;type=atom" />
+	<id>http://www.seightcustom.com.au</id>
+	<updated>2013-03-12T03:42:19Z</updated>
+			<isc:store_title><![CDATA[Seight Custom Cycling Wear]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2013-02-21T19:15:47Z</published>
+		<updated>2013-02-21T19:15:47Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-short-sleeve-seight-suit" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-short-sleeve-seight-suit</id>
+		<title type="html" xml:space="preserve"><![CDATA[Fixed Wheel Short Sleeve Seight Suit]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-short-sleeve-seight-suit"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-short-sleeve-seight-suit"  ><img src="http://www.seightcustom.com.au/product_images/v/318/Seight_Short_Sleeve_Skin_Suit_-_Fixed_Wheel_021713__14261_thumb.png" alt="Fixed Wheel Short Sleeve Seight Suit" width="68" height="120" /></a></div><p>Description is top secret! You will find out what its like when you get it!!</p><p><strong>Price: $240.91</strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p>Description is top secret! You will find out what its like when you get it!!</p>]]></isc:description>
+		<isc:productid><![CDATA[128]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/v/318/Seight_Short_Sleeve_Skin_Suit_-_Fixed_Wheel_021713__14261_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/f/703/Seight_Short_Sleeve_Skin_Suit_-_Fixed_Wheel_021713__06463_zoom.png]]></isc:image>
+		<isc:price><![CDATA[$240.91]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2013-02-21T19:12:56Z</published>
+		<updated>2013-02-21T19:12:56Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-windvest" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-windvest</id>
+		<title type="html" xml:space="preserve"><![CDATA[Fixed Wheel Wind Vest]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-windvest"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-windvest"  ><img src="http://www.seightcustom.com.au/product_images/s/858/Seight_Vest_Chrome_-_Fixed_Wheel_021713__65997_thumb.png" alt="Fixed Wheel Wind Vest" width="78" height="120" /></a></div><p><span style="font-size: small;">When the climate is at its worst, the Seight Windt Vest is at its best. They are made from wind and water resistant polyester fabrics to enhance comfort and performance when you are riding. The vest is lightweight and breathable for an outstanding cycling experie..<p><strong>Price: <span class="SalePrice">$51.82</span></strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;">When the climate is at its worst, the Seight Windt Vest is at its best. They are made from wind and water resistant polyester fabrics to enhance comfort and performance when you are riding. The vest is lightweight and breathable for an outstanding cycling experie..]]></isc:description>
+		<isc:productid><![CDATA[127]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/s/858/Seight_Vest_Chrome_-_Fixed_Wheel_021713__65997_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/x/398/Seight_Vest_Chrome_-_Fixed_Wheel_021713__86428_zoom.png]]></isc:image>
+		<isc:price><![CDATA[<span class="SalePrice">$51.82</span>]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2013-02-19T21:00:34Z</published>
+		<updated>2013-02-19T21:00:34Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-arm-warmers" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-arm-warmers</id>
+		<title type="html" xml:space="preserve"><![CDATA[Fixed Wheel Arm Warmers]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-arm-warmers"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-arm-warmers"  ><img src="http://www.seightcustom.com.au/product_images/i/244/Seight_Arm_Warmers_Chrome_-_Fixed_Wheel_021713__75289_thumb.png" alt="Fixed Wheel Arm Warmers" width="120" height="63" /></a></div><p><span style="font-size: small;">Transform all your short sleeve cycling jerseys into full body coverage with our Seight Winter Arm Warmers. These arm warmers are made using full motion flexible fabrics, fleece lining and elastic grippers that equipe you for those cold rides.</span></p>
+<p><spa..<p><strong>Price: <span class="SalePrice">$19.64</span></strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;">Transform all your short sleeve cycling jerseys into full body coverage with our Seight Winter Arm Warmers. These arm warmers are made using full motion flexible fabrics, fleece lining and elastic grippers that equipe you for those cold rides.</span></p>
+<p><spa..]]></isc:description>
+		<isc:productid><![CDATA[126]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/i/244/Seight_Arm_Warmers_Chrome_-_Fixed_Wheel_021713__75289_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/u/609/Seight_Arm_Warmers_Chrome_-_Fixed_Wheel_021713__74699_zoom.png]]></isc:image>
+		<isc:price><![CDATA[<span class="SalePrice">$19.64</span>]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2013-02-19T20:54:18Z</published>
+		<updated>2013-02-19T20:54:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-leg-warmers" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-leg-warmers</id>
+		<title type="html" xml:space="preserve"><![CDATA[Fixed Wheel Leg Warmers]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-leg-warmers"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-leg-warmers"  ><img src="http://www.seightcustom.com.au/product_images/t/788/Seight_Leg_Warmers_-_Fixed_Wheel_021713__57400_thumb.png" alt="Fixed Wheel Leg Warmers" width="39" height="120" /></a></div><p><span style="font-size: small;">Increase your legs warmth while wearing your best cycling shorts. Seight Winter Leg Warmers uses high quality Roubaix fabrics for exceptional wind protection without excluding moisture management and breathability. They have a fleece lining to keep you warm durin..<p><strong>Price: <span class="SalePrice">$26.73</span></strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;">Increase your legs warmth while wearing your best cycling shorts. Seight Winter Leg Warmers uses high quality Roubaix fabrics for exceptional wind protection without excluding moisture management and breathability. They have a fleece lining to keep you warm durin..]]></isc:description>
+		<isc:productid><![CDATA[125]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/t/788/Seight_Leg_Warmers_-_Fixed_Wheel_021713__57400_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/y/848/Seight_Leg_Warmers_-_Fixed_Wheel_021713__20549_zoom.png]]></isc:image>
+		<isc:price><![CDATA[<span class="SalePrice">$26.73</span>]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2013-02-19T20:51:39Z</published>
+		<updated>2013-02-19T20:51:39Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheels-thermal-jacket" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/fixed-wheels-thermal-jacket</id>
+		<title type="html" xml:space="preserve"><![CDATA[Fixed Wheel Thermal Jacket]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheels-thermal-jacket"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheels-thermal-jacket"  ><img src="http://www.seightcustom.com.au/product_images/q/193/Seight_Winter_Jacket_Chrome_-_Fixed_Wheel_021713__53493_thumb.png" alt="Fixed Wheel Thermal Jacket" width="110" height="120" /></a></div><p><span style="font-size: small;">Comfortable, warm, and economical; what else is there to look for in a cycling jacket.  The jackets fabric is water and wind resistant to keep you warm and provide moisture wicking for a warm and dry body. The jacket is made with 3 windproof fabric layers which i..<p><strong>Price: <span class="SalePrice">$95.45</span></strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;">Comfortable, warm, and economical; what else is there to look for in a cycling jacket.  The jackets fabric is water and wind resistant to keep you warm and provide moisture wicking for a warm and dry body. The jacket is made with 3 windproof fabric layers which i..]]></isc:description>
+		<isc:productid><![CDATA[124]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/q/193/Seight_Winter_Jacket_Chrome_-_Fixed_Wheel_021713__53493_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/u/251/Seight_Winter_Jacket_Chrome_-_Fixed_Wheel_021713__81911_zoom.png]]></isc:image>
+		<isc:price><![CDATA[<span class="SalePrice">$95.45</span>]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2013-02-19T20:42:28Z</published>
+		<updated>2013-02-19T20:42:28Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-cap" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-cap</id>
+		<title type="html" xml:space="preserve"><![CDATA[Fixed Wheel Cap]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-cap"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-cap"  ><img src="http://www.seightcustom.com.au/product_images/x/336/Seight_Cycling_Cap_-_Fixed_Wheel_021713__75838_thumb.png" alt="Fixed Wheel Cap" width="120" height="78" /></a></div><p><span style="font-size: small;" lang="EN-US">The Seight Cap is designed from a soft, lightweight, waterproof, wind repelling, and extremely breathable poly fabric. It has an exceptional ability to soak up sweat and prevent it from running into your eyes. It also dries quickly and its machine wa..<p><strong>Price: <span class="SalePrice">$13.09</span></strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;" lang="EN-US">The Seight Cap is designed from a soft, lightweight, waterproof, wind repelling, and extremely breathable poly fabric. It has an exceptional ability to soak up sweat and prevent it from running into your eyes. It also dries quickly and its machine wa..]]></isc:description>
+		<isc:productid><![CDATA[123]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/x/336/Seight_Cycling_Cap_-_Fixed_Wheel_021713__75838_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/g/624/Seight_Cycling_Cap_-_Fixed_Wheel_021713__49720_zoom.png]]></isc:image>
+		<isc:price><![CDATA[<span class="SalePrice">$13.09</span>]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2013-02-19T20:18:42Z</published>
+		<updated>2013-02-19T20:18:42Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-gloves" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-gloves</id>
+		<title type="html" xml:space="preserve"><![CDATA[Fixed Wheel Gloves]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-gloves"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-gloves"  ><img src="http://www.seightcustom.com.au/product_images/h/773/Seight_Gloves_Chrome_-_Fixed_Wheel_021713__60978_thumb.png" alt="Fixed Wheel Gloves" width="107" height="120" /></a></div><p><span style="font-size: small;" lang="EN-US">Hyper ventilated, ultra-light and close fitting, our comfortable Seight Summer Gloves are all a pro rider needs to emerge victorious. They are made of highly breathable lycra fabric that is both light in weight and chaff-free for a cool and comfy fee..<p><strong>Price: <span class="SalePrice">$22.36</span></strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;" lang="EN-US">Hyper ventilated, ultra-light and close fitting, our comfortable Seight Summer Gloves are all a pro rider needs to emerge victorious. They are made of highly breathable lycra fabric that is both light in weight and chaff-free for a cool and comfy fee..]]></isc:description>
+		<isc:productid><![CDATA[122]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/h/773/Seight_Gloves_Chrome_-_Fixed_Wheel_021713__60978_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/b/966/Seight_Gloves_Chrome_-_Fixed_Wheel_021713__30320_zoom.png]]></isc:image>
+		<isc:price><![CDATA[<span class="SalePrice">$22.36</span>]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2013-02-19T19:38:07Z</published>
+		<updated>2013-02-19T19:38:07Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-elite-pro-bib-shorts" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-elite-pro-bib-shorts</id>
+		<title type="html" xml:space="preserve"><![CDATA[Fixed Wheel Elite Pro Bib Shorts]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-elite-pro-bib-shorts"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-elite-pro-bib-shorts"  ><img src="http://www.seightcustom.com.au/product_images/u/952/Seight_Bib_Shorts_Chrome_-_Fixed_Wheel_021713__32534_thumb.png" alt="Fixed Wheel Elite Pro Bib Shorts" width="53" height="120" /></a></div><p><span style="font-size: small;" lang="EN-US">Perfect, immaculate, and incredible - is what best describes the Seight Elite Bib Shorts. It is indeed the top pro bib shorts ever made, bar none! The sublimated panel is made with 240gsm Lycra from Italy, while the unsublimated panel is 225gsm, whic..<p><strong>Price: <span class="SalePrice">$82.36</span></strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-size: small;" lang="EN-US">Perfect, immaculate, and incredible - is what best describes the Seight Elite Bib Shorts. It is indeed the top pro bib shorts ever made, bar none! The sublimated panel is made with 240gsm Lycra from Italy, while the unsublimated panel is 225gsm, whic..]]></isc:description>
+		<isc:productid><![CDATA[121]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/u/952/Seight_Bib_Shorts_Chrome_-_Fixed_Wheel_021713__32534_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/x/381/Seight_Bib_Shorts_Chrome_-_Fixed_Wheel_021713__11535_zoom.png]]></isc:image>
+		<isc:price><![CDATA[<span class="SalePrice">$82.36</span>]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2013-02-19T19:33:46Z</published>
+		<updated>2013-02-19T19:33:46Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-elite-pro-short-sleeve-jersey" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-elite-pro-short-sleeve-jersey</id>
+		<title type="html" xml:space="preserve"><![CDATA[Fixed Wheel  Elite Pro Short Sleeve Jersey]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-elite-pro-short-sleeve-jersey"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/fixed-wheel-elite-pro-short-sleeve-jersey"  ><img src="http://www.seightcustom.com.au/product_images/p/693/Seight_Jersey_Chrome_-_Fixed_Wheel_021713__18236_thumb.png" alt="Fixed Wheel  Elite Pro Short Sleeve Jersey" width="89" height="120" /></a></div><p><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: small;">Are you looking for cycling attire that is unique, elegant and classy? Then, don&rsquo;t go further than the Seight Elite Pro Short Sleeve Jersey. Made from high quality Italian and USA fabrics, this should b..<p><strong>Price: <span class="SalePrice">$72.00</span></strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: small;">Are you looking for cycling attire that is unique, elegant and classy? Then, don&rsquo;t go further than the Seight Elite Pro Short Sleeve Jersey. Made from high quality Italian and USA fabrics, this should b..]]></isc:description>
+		<isc:productid><![CDATA[120]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/p/693/Seight_Jersey_Chrome_-_Fixed_Wheel_021713__18236_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/r/170/Seight_Jersey_Chrome_-_Fixed_Wheel_021713__19392_zoom.png]]></isc:image>
+		<isc:price><![CDATA[<span class="SalePrice">$72.00</span>]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2013-01-29T06:14:27Z</published>
+		<updated>2013-01-29T06:14:27Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.seightcustom.com.au/custom-cycling-products/breeze-elite-shorts" />
+		<id>http://www.seightcustom.com.au/custom-cycling-products/breeze-elite-shorts</id>
+		<title type="html" xml:space="preserve"><![CDATA[Breeze Elite Shorts]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.seightcustom.com.au/custom-cycling-products/breeze-elite-shorts"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.seightcustom.com.au/custom-cycling-products/breeze-elite-shorts"  ><img src="http://www.seightcustom.com.au/product_images/n/003/Seight_Bib_Shorts__-_Breeze_012013__58673_thumb.png" alt="Seight - Breeze Shorts" width="102" height="120" /></a></div><h3>Product Description</h3>
+<div class="ProductDescriptionContainer">
+<p><span style="font-size: small;" lang="EN-US">Thinking of high  performance, comfortable and yet durable cycling shorts? Look no further  than the Breeze Elite Shorts. This magnificent design is made using  Italian sublimat..<p><strong>Price: $101.82</strong> <img src="http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<h3>Product Description</h3>
+<div class="ProductDescriptionContainer">
+<p><span style="font-size: small;" lang="EN-US">Thinking of high  performance, comfortable and yet durable cycling shorts? Look no further  than the Breeze Elite Shorts. This magnificent design is made using  Italian sublimat..]]></isc:description>
+		<isc:productid><![CDATA[119]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.seightcustom.com.au/product_images/n/003/Seight_Bib_Shorts__-_Breeze_012013__58673_thumb.png]]></isc:thumb>
+		<isc:image><![CDATA[http://www.seightcustom.com.au/product_images/e/605/Seight_Bib_Shorts__-_Breeze_012013__28357_zoom.png]]></isc:image>
+		<isc:price><![CDATA[$101.82]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://www.seightcustom.com.au/templates/Seight/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+</feed>

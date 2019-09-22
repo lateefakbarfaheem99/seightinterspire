@@ -1,0 +1,107 @@
+<?php
+$ImportSession = array (
+  'DeleteImages' => false,
+  'DeleteDownloads' => false,
+  'IsBulkEdit' => true,
+  'IgnoreBlankFields' => true,
+  'AutoCategory' => 1,
+  'Headers' => 1,
+  'OverrideDuplicates' => 1,
+  'FieldEnclosure' => '"',
+  'FieldSeparator' => ',',
+  'ImportFile' => '/home/sei22675/public_html/cache//import/products-import-ba2b2fa36042eaaf6e056ca206d586b3',
+  'TotalFileSize' => 40477,
+  'LastPosition' => false,
+  'PageSize' => 3000,
+  'Header' => 
+  array (
+    0 => 'Product Name',
+    1 => 'Product Description',
+    2 => 'Price',
+    3 => 'Retail Price',
+    4 => 'Sale Price',
+    5 => 'Allow Purchases?',
+    6 => 'Product Visible?',
+    7 => 'Category',
+    8 => 'Product Image ID - 1',
+    9 => 'Product Image File - 1',
+    10 => 'Search Keywords',
+    11 => 'Page Title',
+    12 => 'Meta Keywords',
+    13 => 'Meta Description',
+  ),
+  'MultiFieldCount' => 
+  array (
+    'images' => 1,
+    'files' => 0,
+  ),
+  'FieldList' => 
+  array (
+    'prodname' => '0',
+    'category' => '7',
+    'proddesc' => '1',
+    'prodprice' => '2',
+    'prodsaleprice' => '4',
+    'prodretailprice' => '3',
+    'prodallowpurchases' => '5',
+    'prodvisible' => '6',
+    'prodpagetitle' => '11',
+    'prodsearchkeywords' => '10',
+    'prodmetakeywords' => '12',
+    'prodmetadesc' => '13',
+    'prodimageid1' => '8',
+    'prodimagefile1' => '9',
+  ),
+  'Results' => 
+  array (
+    'SuccessCount' => 31,
+    'Failures' => 
+    array (
+    ),
+    'Duplicates' => 
+    array (
+    ),
+    'Updates' => 
+    array (
+      0 => 'Line 1: Unicorn Racing Team Custom Cap',
+      1 => 'Line 2: Unicorn Racing Team Custom Short Sleeve Jersey',
+      2 => 'Line 3: Unicorn Racing Team Custom Elite Short Sleeve Jersey',
+      3 => 'Line 4: Unicorn Racing Team Custom Elite Pro Short Sleeve Jersey',
+      4 => 'Line 5: Unicorn Racing Team Custom Aero Pro Short Sleeve Jersey',
+      5 => 'Line 6: Unicorn Racing Team Custom Winter Long Sleeve Jersey',
+      6 => 'Line 7: Unicorn Racing Team Custom Bib Shorts',
+      7 => 'Line 8: Unicorn Racing Team Custom Elite Bib Shorts',
+      8 => 'Line 9: Unicorn Racing Team Custom Elite Pro Bib Shorts',
+      9 => 'Line 10: Unicorn Racing Team Custom Winter Elite Pro Bib Shorts',
+      10 => 'Line 11: Unicorn Racing Team Custom Short Sleeve Skin Suit',
+      11 => 'Line 12: Unicorn Racing Team Custom Short Sleeve Speed Skin Suit',
+      12 => 'Line 13: Unicorn Racing Team Custom Long Sleeve Skin Suit',
+      13 => 'Line 14: Unicorn Racing Team Custom Long Sleeve Speed Skin Suit',
+      14 => 'Line 15: Unicorn Racing Team Custom Short Sleeve Super Suit',
+      15 => 'Line 16: Unicorn Racing Team Custom Wind Vest',
+      16 => 'Line 17: Unicorn Racing Team Custom Thermal Vest',
+      17 => 'Line 18: Unicorn Racing Team Custom Thermal Jacket',
+      18 => 'Line 19: Unicorn Racing Team Custom Summer Arm Warmers',
+      19 => 'Line 20: Unicorn Racing Team Custom Winter Arm Warmers',
+      20 => 'Line 21: Unicorn Racing Team Custom Winter Leg Warmers',
+      21 => 'Line 22: Unicorn Racing Team Custom Winter Knee Warmers',
+      22 => 'Line 23: Unicorn Racing Team Custom Summer Gloves',
+      23 => 'Line 24: Unicorn Racing Team Custom Winter Gloves',
+      24 => 'Line 25: Unicorn Racing Team Custom TT Overshoes',
+      25 => 'Line 26: Unicorn Racing Team Custom Winter Overshoes',
+      26 => 'Line 27: Unicorn Racing Team Custom Tech Polo Shirt',
+      27 => 'Line 28: Unicorn Racing Team Custom T Shirt',
+      28 => 'Line 29: Unicorn Racing Team Custom Casual Winter Jacket',
+      29 => 'Line 30: Unicorn Racing Team Custom Casual Winter Vest',
+      30 => 'Line 31: Unicorn Racing Team Custom Elite Long Sleeve Jersey',
+    ),
+    'Warnings' => 
+    array (
+    ),
+  ),
+  'DoneCount' => 31,
+  'StartTime' => 1369046048,
+  'InImport' => 1,
+);
+
+?>

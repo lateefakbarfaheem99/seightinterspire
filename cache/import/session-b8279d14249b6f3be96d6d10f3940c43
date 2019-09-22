@@ -1,0 +1,77 @@
+<?php
+$ImportSession = array (
+  'DeleteImages' => false,
+  'DeleteDownloads' => false,
+  'IsBulkEdit' => true,
+  'IgnoreBlankFields' => true,
+  'AutoCategory' => 1,
+  'Headers' => 1,
+  'OverrideDuplicates' => 1,
+  'FieldEnclosure' => '"',
+  'FieldSeparator' => ',',
+  'ImportFile' => '/home/sei22675/public_html/cache//import/products-import-b2de91a465331a1a4f6cbe90e43c24e3',
+  'TotalFileSize' => 1447,
+  'LastPosition' => false,
+  'PageSize' => 3000,
+  'Header' => 
+  array (
+    0 => 'Product Name',
+    1 => 'Product Description',
+    2 => 'Price',
+    3 => 'Retail Price',
+    4 => 'Sale Price',
+    5 => 'Allow Purchases?',
+    6 => 'Product Visible?',
+    7 => 'Category',
+    8 => 'Product Image ID - 1',
+    9 => 'Product Image File - 1',
+    10 => 'Search Keywords',
+    11 => 'Page Title',
+    12 => 'Meta Keywords',
+    13 => 'Meta Description',
+  ),
+  'MultiFieldCount' => 
+  array (
+    'images' => 1,
+    'files' => 0,
+  ),
+  'FieldList' => 
+  array (
+    'prodname' => '0',
+    'category' => '7',
+    'proddesc' => '1',
+    'prodprice' => '2',
+    'prodsaleprice' => '4',
+    'prodretailprice' => '3',
+    'prodallowpurchases' => '5',
+    'prodvisible' => '6',
+    'prodpagetitle' => '11',
+    'prodsearchkeywords' => '10',
+    'prodmetakeywords' => '12',
+    'prodmetadesc' => '13',
+    'prodimageid1' => '8',
+    'prodimagefile1' => '9',
+  ),
+  'Results' => 
+  array (
+    'SuccessCount' => 1,
+    'Failures' => 
+    array (
+    ),
+    'Duplicates' => 
+    array (
+    ),
+    'Updates' => 
+    array (
+      0 => 'Line 1: Unicorn Racing Team Custom Cap',
+    ),
+    'Warnings' => 
+    array (
+    ),
+  ),
+  'DoneCount' => 1,
+  'StartTime' => 1368931406,
+  'InImport' => 1,
+);
+
+?>
